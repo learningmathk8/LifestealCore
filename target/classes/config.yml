@@ -1,0 +1,17 @@
+lifesteal:
+  default-max-hearts: 15
+  absolute-max-hearts: 30
+  prestige-base-cost: 15
+  prestige-cost-multiplier: 10
+  pvp-heart-steal: true
+  kill-cooldown-seconds: 300
+  prestige-animation: true
+
+combatlog:
+  timer-seconds: 25
+  punish-on-logout: true
+  heart-penalty: true
+  items-drop-on-logout: true
+  block-commands: true
+  block-flight: true
+  subtitle-message: "<red><bold>COMBAT TAGGED: <yellow>{time}s"

@@ -1,0 +1,10 @@
+/workspaces/LifestealCore/src/main/java/com/lifesteal/core/LifestealCore.java
+/workspaces/LifestealCore/src/main/java/com/lifesteal/core/api/LifestealAPI.java
+/workspaces/LifestealCore/src/main/java/com/lifesteal/core/command/LSAdminCommand.java
+/workspaces/LifestealCore/src/main/java/com/lifesteal/core/command/LifestealCommand.java
+/workspaces/LifestealCore/src/main/java/com/lifesteal/core/command/WithdrawCommand.java
+/workspaces/LifestealCore/src/main/java/com/lifesteal/core/listener/CombatListener.java
+/workspaces/LifestealCore/src/main/java/com/lifesteal/core/listener/PlayerListener.java
+/workspaces/LifestealCore/src/main/java/com/lifesteal/core/manager/ConfigManager.java
+/workspaces/LifestealCore/src/main/java/com/lifesteal/core/manager/DataManager.java
+/workspaces/LifestealCore/src/main/java/com/lifesteal/core/menu/Menus.java

@@ -1,0 +1,20 @@
+name: LifestealCore
+version: 1.0.0
+main: com.lifesteal.core.LifestealCore
+api-version: '26.3'
+commands:
+  lifesteal:
+    description: Open the main Lifesteal menu
+    aliases: [ls, hearts, prestige]
+  lsconfig:
+    description: Open Lifesteal configuration GUI
+    permission: lifesteal.admin
+  clconfig:
+    description: Open Combat Log configuration GUI
+    permission: lifesteal.admin
+  lsadmin:
+    description: Admin commands and interactive control panel
+    permission: lifesteal.admin
+  withdraw:
+    description: Withdraw hearts into physical heart items
+    aliases: [wd]
